@@ -11,3 +11,7 @@ DOMAIN: C PROGRAMMING
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
+
+![Image](https://github.com/user-attachments/assets/ab47ce79-0f2b-45c0-a945-7f2bfc40a4e0)
+
+
